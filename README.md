@@ -1,4 +1,4 @@
-This fork does not work on its own. It is modified in a way so that it can be used by [DroneCtrl]([htt](https://github.com/konfrag4/DroneCtrl) - a program that makes any FPV drone autonomous and provides an easy way to program your drone.
+This fork does not work on its own. It is modified in a way so that it can be used by [DroneCtrl](htt(https://github.com/konfrag4/DroneCtrl) - a program that makes any FPV drone autonomous and provides an easy way to program your drone.
 To set up ELRS Joystic Control to work with DroneCtrl, follow the original instructions below. Make sure that you have created and applyied a correct Inputs Config on the Web Interface.
 
 For any issue, feel free to contact me.
